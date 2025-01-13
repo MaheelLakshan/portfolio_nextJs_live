@@ -106,29 +106,14 @@ export const projects = [
 
 export const testimonials = [
   {
-    quote: "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: 'Michael Johnson',
-    title: 'Director of AlphaStream Technologies',
+    quote: "Collaborating with Maheel was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout his internship. Maheel's enthusiasm for every facet of development truly stands out. I highly recommend him for any software engineering endeavors.",
+    name: 'Mr. Uvindu',
+    title: 'Intern Supervisor at JWARE Automation Pvt Ltd',
   },
   {
-    quote: "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: 'Michael Johnson',
-    title: 'Director of AlphaStream Technologies',
-  },
-  {
-    quote: "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: 'Michael Johnson',
-    title: 'Director of AlphaStream Technologies',
-  },
-  {
-    quote: "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: 'Michael Johnson',
-    title: 'Director of AlphaStream Technologies',
-  },
-  {
-    quote: "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: 'Michael Johnson',
-    title: 'Director of AlphaStream Technologies',
+    quote: "Maheel's ability to tackle challenging tasks and deliver efficient solutions was truly impressive. He consistently demonstrated attention to detail and unwavering commitment to excellence during his internship. I am confident he will excel in any future role.",
+    name: 'Mr. Sanath',
+    title: 'Intern Supervisor at ALDTAN Pvt Ltd',
   },
 ];
 
@@ -168,31 +153,31 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: 'Frontend Engineer Intern',
-    desc: 'Assisted in the development of a web-based platform using React.js, enhancing interactivity.',
+    title: 'Front End Developer Intern',
+    desc: 'Designed and developed responsive web interfaces using React.js, Next.js, and Laravel. Utilized modern libraries and tools such as TailwindCSS for styling, Redux for state management, and Zod and Joi for form validation. Ensured cross-browser compatibility and optimized performance for a seamless user experience.',
     className: 'md:col-span-2',
     thumbnail: '/exp1.svg',
   },
   {
     id: 2,
-    title: 'Mobile App Dev - JSM Tech',
-    desc: 'Designed and developed mobile app for both iOS & Android platforms using React Native.',
-    className: 'md:col-span-2', // change to md:col-span-2
-    thumbnail: '/exp2.svg',
+    title: 'Back End Developer',
+    desc: 'Developed and implemented both microservice and monolithic architectures to enhance system scalability and performance. Utilized Docker for containerization of microservices, ensuring efficient deployment and scalability. Built and tested APIs using Postman, ensuring robust and reliable backend functionality.',
+    className: 'md:col-span-2',
+    thumbnail: '/exp4.svg',
   },
   {
     id: 3,
-    title: 'Freelance App Dev Project',
-    desc: 'Led the dev of a mobile app for a client, from initial concept to deployment on app stores.',
-    className: 'md:col-span-2', // change to md:col-span-2
-    thumbnail: '/exp3.svg',
+    title: 'Mobile App Indie Develover',
+    desc: 'Designed and developed mobile apps for both iOS & Android platforms using React Native.As part of my final year project, I integrated live streaming of CCTV footage and implemented an abnormal event detection system powered by a machine learning model.',
+    className: 'md:col-span-2',
+    thumbnail: '/exp2.svg',
   },
   {
     id: 4,
-    title: 'Lead Frontend Developer',
-    desc: 'Developed and maintained user-facing features using modern frontend technologies.',
+    title: 'Freelance App Dev Project',
+    desc: 'Led the dev of a web applications for clients, from initial concept to deployment on app stores.',
     className: 'md:col-span-2',
-    thumbnail: '/exp4.svg',
+    thumbnail: '/exp3.svg',
   },
 ];
 
